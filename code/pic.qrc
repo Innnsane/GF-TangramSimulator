@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tangram_2x196.png</file>
+        <file>icon/empty_square.ico</file>
+        <file>icon/left_down.ico</file>
+        <file>icon/left_up.ico</file>
+        <file>icon/right_down.ico</file>
+        <file>icon/right_up.ico</file>
+        <file>icon/square.ico</file>
+    </qresource>
+</RCC>
